@@ -1,2 +1,2 @@
 # search-interest-calculation-with-pytrends
-This Jupyter script reads a CSV file with keywords and checks their indexes in batch of five. 
+This Python script reads your CSV file with keywords and checks their Google Trends indexes in batches of five. 
