@@ -1,4 +1,4 @@
-# search-interest-calculation-with-pytrends
+# Search Interest Calculation with Pytrends
 This Python script reads your CSV file with keywords and checks their Google Trends indexes in batches of five. 
 
 keywords.csv - the file that that contain input data to analyse.
